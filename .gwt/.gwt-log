@@ -1,0 +1,4134 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 25.91 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 3011 units from cache.
+Compiling...
+   Compilation completed in 2.72 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 39 seconds)
+   10% complete (ETR: 38 seconds)
+   20% complete (ETR: 31 seconds)
+   30% complete (ETR: 22 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 40.12 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3011 units from cache.
+Compiling...
+   20% complete (ETR: 14 seconds)
+   20% complete (ETR: 14 seconds)
+   20% complete (ETR: 14 seconds)
+   30% complete (ETR: 13 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 21.84 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3011 cached/archived units.  Used 3011 / 3011 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.cs.umbc.project.client.rpc.RpcService
+   Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+      Generating client proxy for remote service interface 'com.cs.umbc.project.client.rpc.RpcService'
+         Analyzing 'com.cs.umbc.project.client.rpc.RpcService' for serializable types
+            Analyzing methods:
+               public abstract java.lang.String getBlobStoreUrl()
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.BlobData[] getBlobs(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String getContent(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.PlotData getPlotData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String[] getPopulateData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+         Using a shard size of 0 for TypeSerializerCreator createMethodMap
+   Adding '36' new generated units
+      Compiling...
+         Compilation completed in 0.37 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.CurrencyList
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 65 seconds)
+   10% complete (ETR: 55 seconds)
+   20% complete (ETR: 34 seconds)
+   30% complete (ETR: 24 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.48 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 22 seconds)
+   10% complete (ETR: 21 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 25.43 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 63 seconds)
+   10% complete (ETR: 68 seconds)
+   20% complete (ETR: 47 seconds)
+   30% complete (ETR: 35 seconds)
+   40% complete (ETR: 30 seconds)
+   50% complete (ETR: 22 seconds)
+   60% complete (ETR: 16 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 53.04 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 22.28 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3012 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 29 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20.61 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3012 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 26 seconds)
+   30% complete (ETR: 22 seconds)
+   40% complete (ETR: 16 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 22.60 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 42.22 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 25 seconds)
+   10% complete (ETR: 25 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 21.63 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 3012 units from cache.
+Compiling...
+   Compilation completed in 3.46 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 27 seconds)
+   10% complete (ETR: 27 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 21.33 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 24 seconds)
+   10% complete (ETR: 24 seconds)
+   20% complete (ETR: 22 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20.78 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 44 seconds)
+   10% complete (ETR: 44 seconds)
+   20% complete (ETR: 31 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 34.12 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 82 seconds)
+   10% complete (ETR: 70 seconds)
+   20% complete (ETR: 47 seconds)
+   30% complete (ETR: 33 seconds)
+   40% complete (ETR: 25 seconds)
+   50% complete (ETR: 19 seconds)
+   60% complete (ETR: 13 seconds)
+   70% complete (ETR: 10 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 65.42 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 21 seconds)
+   10% complete (ETR: 21 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 19.63 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 43 seconds)
+   10% complete (ETR: 43 seconds)
+   20% complete (ETR: 33 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 29.58 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 107 seconds)
+   20% complete (ETR: 66 seconds)
+   30% complete (ETR: 46 seconds)
+   40% complete (ETR: 34 seconds)
+   50% complete (ETR: 25 seconds)
+   60% complete (ETR: 20 seconds)
+   70% complete (ETR: 14 seconds)
+   80% complete (ETR: 9 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 65.28 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 25 seconds)
+   10% complete (ETR: 25 seconds)
+   20% complete (ETR: 22 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 29.18 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 21.25 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 3012 units from cache.
+Compiling...
+   Compilation completed in 2.94 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 3012 units from cache.
+Compiling...
+   Compilation completed in 2.51 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 19.14 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3012 units from cache.
+Compiling...
+   0% complete (ETR: 48 seconds)
+   10% complete (ETR: 47 seconds)
+   20% complete (ETR: 32 seconds)
+   30% complete (ETR: 24 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 32.31 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3010 cached/archived units.  Used 3010 / 3012 units from cache.
+Compiling...
+   Compilation completed in 0.09 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 22 seconds)
+   10% complete (ETR: 22 seconds)
+   20% complete (ETR: 22 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20.76 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 32 seconds)
+   10% complete (ETR: 32 seconds)
+   20% complete (ETR: 28 seconds)
+   30% complete (ETR: 21 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 23.79 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3012 units from cache.
+Compiling...
+   10% complete (ETR: 25 seconds)
+   10% complete (ETR: 25 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 23.24 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 16 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 24.56 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 29 seconds)
+   10% complete (ETR: 29 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 21 seconds)
+   40% complete (ETR: 16 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 31.24 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 35 seconds)
+   10% complete (ETR: 35 seconds)
+   20% complete (ETR: 28 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.90 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 25 seconds)
+   10% complete (ETR: 25 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 28.22 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 21 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30.39 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 47 seconds)
+   10% complete (ETR: 45 seconds)
+   20% complete (ETR: 32 seconds)
+   30% complete (ETR: 24 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 29.89 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.02 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 52 seconds)
+   10% complete (ETR: 48 seconds)
+   20% complete (ETR: 32 seconds)
+   30% complete (ETR: 24 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30.49 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 32 seconds)
+   10% complete (ETR: 32 seconds)
+   20% complete (ETR: 26 seconds)
+   30% complete (ETR: 19 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 29.31 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 74 seconds)
+   10% complete (ETR: 63 seconds)
+   20% complete (ETR: 47 seconds)
+   30% complete (ETR: 44 seconds)
+   40% complete (ETR: 31 seconds)
+   50% complete (ETR: 23 seconds)
+   60% complete (ETR: 17 seconds)
+   70% complete (ETR: 12 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 52.37 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3012 units from cache.
+Compiling...
+   10% complete (ETR: 43 seconds)
+   10% complete (ETR: 43 seconds)
+   20% complete (ETR: 30 seconds)
+   30% complete (ETR: 26 seconds)
+   40% complete (ETR: 19 seconds)
+   50% complete (ETR: 15 seconds)
+   60% complete (ETR: 13 seconds)
+   70% complete (ETR: 9 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 42.67 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.18 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 27 seconds)
+   30% complete (ETR: 19 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 28.64 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 28.45 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 63 seconds)
+   10% complete (ETR: 52 seconds)
+   20% complete (ETR: 44 seconds)
+   30% complete (ETR: 32 seconds)
+   40% complete (ETR: 24 seconds)
+   50% complete (ETR: 20 seconds)
+   60% complete (ETR: 14 seconds)
+   70% complete (ETR: 10 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 58.05 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 27 seconds)
+   10% complete (ETR: 27 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 24.44 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 3013 units from cache.
+Compiling...
+   Compilation completed in 3.12 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 26 seconds)
+   30% complete (ETR: 22 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 24.69 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 23.18 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 30 seconds)
+   10% complete (ETR: 30 seconds)
+   20% complete (ETR: 26 seconds)
+   30% complete (ETR: 21 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 31.04 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 16 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 28.93 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 26 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 41.58 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 19.43 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3013 cached/archived units.  Used 3013 / 3013 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30.45 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 24 seconds)
+   10% complete (ETR: 24 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30.84 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 35 seconds)
+   10% complete (ETR: 35 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 31.95 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 94 seconds)
+   10% complete (ETR: 54 seconds)
+   20% complete (ETR: 36 seconds)
+   30% complete (ETR: 25 seconds)
+   40% complete (ETR: 20 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 46.96 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20.59 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3013 cached/archived units.  Used 3013 / 3013 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.cs.umbc.project.client.rpc.RpcService
+   Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+      Generating client proxy for remote service interface 'com.cs.umbc.project.client.rpc.RpcService'
+         Analyzing 'com.cs.umbc.project.client.rpc.RpcService' for serializable types
+            Analyzing methods:
+               public abstract java.lang.String getBlobStoreUrl()
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.BlobData[] getBlobs(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String getContent(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.PlotData getPlotData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String[] getPopulateData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+         Using a shard size of 0 for TypeSerializerCreator createMethodMap
+   Adding '36' new generated units
+      Compiling...
+         Compilation completed in 0.43 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.CurrencyList
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   10% complete (ETR: 35 seconds)
+   10% complete (ETR: 35 seconds)
+   20% complete (ETR: 30 seconds)
+   30% complete (ETR: 26 seconds)
+   40% complete (ETR: 23 seconds)
+   50% complete (ETR: 18 seconds)
+   60% complete (ETR: 15 seconds)
+   70% complete (ETR: 12 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 46.82 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.cs.umbc.project.client.rpc.RpcService
+   Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+      Generating client proxy for remote service interface 'com.cs.umbc.project.client.rpc.RpcService'
+         Analyzing 'com.cs.umbc.project.client.rpc.RpcService' for serializable types
+            Analyzing methods:
+               public abstract java.lang.String getBlobStoreUrl()
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.BlobData[] getBlobs(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String getContent(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.PlotData getPlotData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String[] getPopulateData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+         Using a shard size of 0 for TypeSerializerCreator createMethodMap
+   Adding '36' new generated units
+      Compiling...
+         Compilation completed in 0.33 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.CurrencyList
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 82 seconds)
+   20% complete (ETR: 65 seconds)
+   30% complete (ETR: 54 seconds)
+   40% complete (ETR: 51 seconds)
+   50% complete (ETR: 44 seconds)
+   60% complete (ETR: 40 seconds)
+   70% complete (ETR: 35 seconds)
+   80% complete (ETR: 26 seconds)
+   90% complete (ETR: 15 seconds)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 52 seconds)
+   10% complete (ETR: 49 seconds)
+   20% complete (ETR: 30 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 24.71 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 3013 units from cache.
+Compiling...
+   Compilation completed in 3.14 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.cs.umbc.project.client.rpc.RpcService
+   Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+      Generating client proxy for remote service interface 'com.cs.umbc.project.client.rpc.RpcService'
+         Analyzing 'com.cs.umbc.project.client.rpc.RpcService' for serializable types
+            Analyzing methods:
+               public abstract java.lang.String getBlobStoreUrl()
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.BlobData[] getBlobs(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String getContent(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Return type: java.lang.String
+                     java.lang.String is already a root type.
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract com.cs.umbc.project.client.blobs.PlotData getPlotData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+               public abstract java.lang.String[] getPopulateData(com.cs.umbc.project.client.blobs.BlobDataFilter filter)
+                  Parameter: com.cs.umbc.project.client.blobs.BlobDataFilter filter
+                     com.cs.umbc.project.client.blobs.BlobDataFilter is already a root type.
+         Using a shard size of 0 for TypeSerializerCreator createMethodMap
+   Adding '36' new generated units
+      Compiling...
+         Compilation completed in 0.57 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.CurrencyList
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3013 cached/archived units.  Used 3013 / 3013 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3013 units from cache.
+Compiling...
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   30% complete (ETR: 13 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30.15 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3014 units from cache.
+Compiling...
+   10% complete (ETR: 21 seconds)
+   10% complete (ETR: 21 seconds)
+   20% complete (ETR: 20 seconds)
+   30% complete (ETR: 14 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 37.19 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3012 cached/archived units.  Used 3012 / 3014 units from cache.
+Compiling...
+   Compilation completed in 1.15 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.CurrencyList
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.14 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.JQueryLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSelectionLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotSymbolLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotImageLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotPieLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotStackLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotResizeLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotAxisLabelsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotThresholdLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotNavigateLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotCrosshairLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotMultipleBarsLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding ca.nanometrics.gflot.client.resources.FlotFillBetweenLoader.Bundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3014 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 55 seconds)
+   10% complete (ETR: 49 seconds)
+   20% complete (ETR: 31 seconds)
+   30% complete (ETR: 22 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 23.99 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3015 units from cache.
+Compiling...
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   30% complete (ETR: 14 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 22.08 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 21 seconds)
+   10% complete (ETR: 21 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 25.70 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 34 seconds)
+   10% complete (ETR: 34 seconds)
+   20% complete (ETR: 28 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 12 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 35.84 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.60 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3017 units from cache.
+Compiling...
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 24.39 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3014 cached/archived units.  Used 3014 / 3017 units from cache.
+Compiling...
+   Compilation completed in 2.45 seconds
+Invalid Unit: com.cs.umbc.project.client.Options
+Invalid Unit: com.cs.umbc.project.client.widges.CommonWidge
+Invalid Unit: com.cs.umbc.project.client.PredictPanel
+Invalid units found: 3
+Compiling...
+   Compilation completed in 0.58 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 3016 cached/archived units.  Used 3016 / 3017 units from cache.
+Compiling...
+   Compilation completed in 0.20 seconds
+Invalid Unit: com.cs.umbc.project.client.Options
+Invalid Unit: com.cs.umbc.project.client.widges.CommonWidge
+Invalid Unit: com.cs.umbc.project.client.PredictPanel
+Invalid Unit: com.cs.umbc.project.client.Charts
+Invalid units found: 4
+Compiling...
+   Compilation completed in 0.22 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3017 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 94 seconds)
+   20% complete (ETR: 67 seconds)
+   30% complete (ETR: 59 seconds)
+   40% complete (ETR: 53 seconds)
+   50% complete (ETR: 49 seconds)
+   60% complete (ETR: 44 seconds)
+   70% complete (ETR: 41 seconds)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 33 seconds)
+   10% complete (ETR: 33 seconds)
+   20% complete (ETR: 26 seconds)
+   30% complete (ETR: 19 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20.84 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.08 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 3018 units from cache.
+Compiling...
+   20% complete (ETR: 19 seconds)
+   20% complete (ETR: 19 seconds)
+   20% complete (ETR: 19 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 36.94 seconds
+Validating units:
+   [WARN] Warnings in 'jar:file:/C:/Users/leifeng/workspace/cccprojectGWT/war/WEB-INF/lib/gwt-incubator-20101117-r1766.jar!/com/google/gwt/widgetideas/client/impl/GlassPanelImpl.java'
+      [WARN] Line 30: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+      [WARN] Line 38: Referencing deprecated class 'com.google.gwt.user.client.impl.DocumentRootImpl'
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 22 seconds)
+   10% complete (ETR: 22 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 24.64 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 31 seconds)
+   10% complete (ETR: 31 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 20 seconds)
+   40% complete (ETR: 16 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 28.85 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 31 seconds)
+   10% complete (ETR: 31 seconds)
+   20% complete (ETR: 25 seconds)
+   30% complete (ETR: 19 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.74 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 83 seconds)
+   10% complete (ETR: 78 seconds)
+   20% complete (ETR: 48 seconds)
+   30% complete (ETR: 34 seconds)
+   40% complete (ETR: 28 seconds)
+   50% complete (ETR: 21 seconds)
+   60% complete (ETR: 15 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 51.65 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 79 seconds)
+   10% complete (ETR: 67 seconds)
+   20% complete (ETR: 47 seconds)
+   30% complete (ETR: 38 seconds)
+   40% complete (ETR: 28 seconds)
+   50% complete (ETR: 21 seconds)
+   60% complete (ETR: 16 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 48.36 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 73 seconds)
+   10% complete (ETR: 63 seconds)
+   20% complete (ETR: 47 seconds)
+   30% complete (ETR: 33 seconds)
+   40% complete (ETR: 25 seconds)
+   50% complete (ETR: 18 seconds)
+   60% complete (ETR: 14 seconds)
+   70% complete (ETR: 10 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 41.58 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 23 seconds)
+   10% complete (ETR: 23 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 14 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.87 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 37 seconds)
+   10% complete (ETR: 37 seconds)
+   20% complete (ETR: 27 seconds)
+   30% complete (ETR: 19 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26.60 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 45 seconds)
+   10% complete (ETR: 45 seconds)
+   20% complete (ETR: 32 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 35.96 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: 50 seconds)
+   10% complete (ETR: 47 seconds)
+   20% complete (ETR: 29 seconds)
+   30% complete (ETR: 22 seconds)
+   40% complete (ETR: 16 seconds)
+   50% complete (ETR: 11 seconds)
+   60% complete (ETR: 8 seconds)
+   70% complete (ETR: 6 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 29.90 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   10% complete (ETR: 29 seconds)
+   10% complete (ETR: 29 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 13 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30.89 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 90 seconds)
+   20% complete (ETR: 63 seconds)
+   30% complete (ETR: 52 seconds)
+   40% complete (ETR: 38 seconds)
+   50% complete (ETR: 28 seconds)
+   60% complete (ETR: 23 seconds)
+   70% complete (ETR: 16 seconds)
+   80% complete (ETR: 10 seconds)
+   90% complete (ETR: 5 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 75.52 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
